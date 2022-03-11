@@ -7,7 +7,7 @@
  * Return: Always return 0()Success
  *
  */
-int main(void)
+int main(void) //Main function
 {
 	int n;
 
