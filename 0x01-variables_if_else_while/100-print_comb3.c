@@ -21,7 +21,7 @@ int main(void)
 	{
 		j = i % 10; /* singles digit */
 		k = i / 10; /* doubles digit */
-												if (k < j)
+		if (k < j)
 		{
 			putchar(k + '0');
 			putchar(j + '0');
@@ -29,8 +29,8 @@ int main(void)
 			{
 				putchar(44);
 				putchar(32);
-													}
-																						}
+			}
+												}
 												i++;
 											}
 	putchar('\n');
