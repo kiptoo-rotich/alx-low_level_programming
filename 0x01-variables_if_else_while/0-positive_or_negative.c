@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/*
+/**
  * main - Prints neg,positive or zero according to value of n
  *
  * Return: Always return (0)Success
